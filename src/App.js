@@ -115,7 +115,6 @@ function App() {
             <input
               type="text"
               className="form-control"
-              // aria-describedby="inputGroup-sizing-lg"
               id="destinationNumber"
               placeholder="Enter Destination Number"
               value={destinationNumber}
